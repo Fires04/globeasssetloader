@@ -1,6 +1,6 @@
 {
   "name": "davidsteincz/globeassetloader",
-  "description": "Nette extension for asset load",
+  "description": "Nette component for asset load",
   "type": "library",
   "keywords": ["nette", "assets", "loader", "component"],
   "license": "Apache License 2.0",
