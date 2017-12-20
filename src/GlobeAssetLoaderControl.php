@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-namespace davidsteincz\globe\extension\globeassetloader;
+namespace davidsteincz\globe\control\globeassetloader;
 
 use Nette;
 
