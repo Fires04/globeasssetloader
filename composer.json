@@ -1,5 +1,6 @@
 {
   "name": "davidsteincz/globeassetloader",
+  "version": "1.0.0",
   "description": "Nette component for asset load",
   "type": "library",
   "keywords": ["nette", "assets", "loader", "component"],
