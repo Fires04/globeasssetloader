@@ -1,0 +1,7 @@
+{block content}
+{foreach $jsFiles as $file}
+    <script src="{$baseUrl}{$jsFolder}{$file->getFilename()}"></script>
+{/foreach}
+{foreach $remoteFiles as $file}
+   <script src="{$file}"></script>
+{/foreach}

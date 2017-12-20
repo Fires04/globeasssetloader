@@ -1,0 +1,7 @@
+{block content}
+{foreach $cssFiles as $file}
+    <link rel="stylesheet" type="text/css" href="{$baseUrl}{$cssFolder}{$file->getFilename()}">
+{/foreach}
+{foreach $remoteFiles as $file}
+    <link rel="stylesheet" type="text/css" href="{$file}">
+{/foreach}
